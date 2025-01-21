@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif">
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asishkumar24&label=Profile%20views&color=0e75b6&style=flat" alt="asishkumar24" /> </p>
 
 - 🌱 I’m currently learning **Advanced React Native, Android App Development, and Scalable Backend Systems.**
@@ -17,7 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/asishkumar2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asishkumar2411" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/k asish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k asish kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/asishkumar.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asishkumar.24" height="30" width="40" /></a>
+<a href="https://hashnode.com/@asishkumar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@asishkumar24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asishkumar24&show_icons=true&locale=en" alt="asishkumar24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asishkumar24&" alt="asishkumar24" /></p>
-
